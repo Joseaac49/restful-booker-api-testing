@@ -67,7 +67,7 @@ Resultado obtenido:
 
 ## Evidencia
 
-![Collection Runner](evidence/collection-runner-25-tests-passed.png)
+En el archivo Evidence
 
 ## Cómo ejecutar el proyecto
 
